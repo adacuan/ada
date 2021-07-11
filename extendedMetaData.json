@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/iphone-60x60@3x.png?raw=true",
+        "url_png_logo": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/southtyrolpool-name.jpg?raw=true",
+        "location": "Indonesia",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Adacuan",
+            "addr": "",
+            "city": "",
+            "country": "ID",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operater",
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "ad9adce0849bd92dbfd61f9985cc139c5abd68ed9f751c85bf2294f1",
+        "1": ""
+      }
+    }
+}
