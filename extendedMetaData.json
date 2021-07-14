@@ -2,7 +2,7 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/adacuan/ada/main/adacuan64x64.png",
         "url_png_logo": "https://raw.githubusercontent.com/adacuan/ada/main/adacuan_logo.png",
-        "location": "Indonesia",
+        "location": "Salatiga, Indonesia",
         "social": {
             "twitter_handle": "adacuanpool",
             "telegram_handle": "",
@@ -25,9 +25,8 @@
             "server": "",
             "company": ""
         },
-    "my-pool-ids": {
-        "0": "ad9adce0849bd92dbfd61f9985cc139c5abd68ed9f751c85bf2294f1",
-        "1": ""
-      }
+        "my-pool-ids": {
+            "0": "ad9adce0849bd92dbfd61f9985cc139c5abd68ed9f751c85bf2294f1"
+        }
     }
 }
